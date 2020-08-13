@@ -18,7 +18,7 @@
 
 .family_picture{
     margin-top: 20px;
-    width: 100%;
+    width: 375px;
   
     
 }
@@ -28,7 +28,7 @@
     /*border: 2px solid blue;*/
     top: 525px;
     height: 72vh;
-    width: 100%;
+    width: 375px;
    background-color: hsl(256, 26%, 20%);
    
 }
